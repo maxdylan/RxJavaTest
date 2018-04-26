@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RxJavaTest</string>
+    <string name="title_activity_toolbar_base">ToolbarBaseActivity</string>
 </resources>
